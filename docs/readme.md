@@ -1,8 +1,3 @@
----
-title: Implementation Guide | datalayer.js
-keywords: datalayer, javascrip, implementation, GTM, help
----
-
 # datalayer.js Implementation Guide
 
 ## Table of Contents
