@@ -1,6 +1,5 @@
 ---
 title: Implementation Guide | datalayer.js
-author: Steve Slade
 keywords: datalayer, javascrip, implementation, GTM, help
 ---
 
